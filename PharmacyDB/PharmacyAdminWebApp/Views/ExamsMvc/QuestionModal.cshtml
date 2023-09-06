@@ -1,0 +1,27 @@
+﻿@model PharmacyDB.Models.ExamQuestion
+
+<div class="modal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="card card-warning card-outline">
+                <div class="card-body box-profile" style="align-self: center; width:70%;">
+                    <form class="form" method="post" action="@Url.Action("EditQuestion","ExamsMvc")">
+                        <h2>Edit Question</h2>
+                        <div class="modal-body">
+                            <input id="Id" asp-for="Id" class="form-control" type="hidden" />
+                            <input  asp-for="ExamId" class="form-control" type="hidden" />
+                            <input  asp-for="QuestionId" class="form-control" type="hidden" />
+                            <span id="error" class="text-danger"></span>
+                        </div>
+                        <div class="modal-footer">
+                            <input type="submit" class="btn btn-primary" value="Submit" id="submitButton" />
+                            <button class="btn btn-light" data-dismiss="modal">Cancel</button>
+                        </div>
+                    </form>
+                </div>
+                <!-- /.card-body -->
+            </div>
+        </div>
+    </div>
+</div>
+

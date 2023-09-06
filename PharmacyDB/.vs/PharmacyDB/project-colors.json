@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "101fdd80-8492-4880-9932-70f4989eac05": {
+      "ProjectGuid": "101fdd80-8492-4880-9932-70f4989eac05",
+      "DisplayName": "PharmacyDB",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "835072cb-1853-4223-b1e8-5e0847f3a72c": {
+      "ProjectGuid": "835072cb-1853-4223-b1e8-5e0847f3a72c",
+      "DisplayName": "PharmacyWeb",
+      "ColorIndex": 1
+    },
+    "5f9662ba-f677-469d-adfb-1460bf03b090": {
+      "ProjectGuid": "5f9662ba-f677-469d-adfb-1460bf03b090",
+      "DisplayName": "PharmacyWeb",
+      "ColorIndex": 2
+    },
+    "ccf1c8f6-beef-4f20-abd0-56189d1098d8": {
+      "ProjectGuid": "ccf1c8f6-beef-4f20-abd0-56189d1098d8",
+      "DisplayName": "PharmacyInfrastructure",
+      "ColorIndex": 3
+    },
+    "cd0bd8df-b60b-4805-be64-8f06844c01d1": {
+      "ProjectGuid": "cd0bd8df-b60b-4805-be64-8f06844c01d1",
+      "DisplayName": "PharmacyWeb",
+      "ColorIndex": 4
+    },
+    "b4bc7c53-7382-4213-8130-8c84fccc3ec3": {
+      "ProjectGuid": "b4bc7c53-7382-4213-8130-8c84fccc3ec3",
+      "DisplayName": "PharmacyWeb",
+      "ColorIndex": 5
+    },
+    "16dd1693-1b97-4fe5-a8ff-64cf516028ec": {
+      "ProjectGuid": "16dd1693-1b97-4fe5-a8ff-64cf516028ec",
+      "DisplayName": "PharmacyAdminWebApp",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

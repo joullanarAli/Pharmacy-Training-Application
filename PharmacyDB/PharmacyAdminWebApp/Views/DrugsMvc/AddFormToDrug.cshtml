@@ -1,0 +1,24 @@
+﻿@model AddFormToDrugViewModel
+
+<h2>Add Form to Drug</h2>
+
+@using (Html.BeginForm("AddFormToDrug", "DrugsMvc", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.DrugId)
+    
+    <div class="form-group">
+        @Html.LabelFor(m => m.SelectedFormId, "Select a Form:")
+        @Html.DropDownListFor(m => m.SelectedFormId, new SelectList(Model.AvailableForms, "Id", "Name"), "Select a Form", new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Dose, "Dose:")
+        @Html.TextBoxFor(m => m.Dose, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Volume, "Volume:")
+        @Html.TextBoxFor(m => m.Volume, new { @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Form</button>
+}

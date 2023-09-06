@@ -1,0 +1,54 @@
+﻿
+@model PharmacyDB.Models.Choice
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+            .form-control{
+                width:50%;
+                margin-left:200px;
+            }
+            label{
+                 margin-left:200px;
+            }
+            #isVip{
+                 margin-left:450px;
+            }
+            .btn-secondary{
+                margin-left:200px;                
+            }
+            .btn-primary{
+                margin-right:385px;
+            }
+            .text-danger{      
+                margin-left:200px;
+            }
+            h2{      
+                color:teal;
+            }
+        </style>
+    </head>
+
+    <body>
+        <form class="form" method="post" action="@Url.Action("AddChoiceToQuestion","QuestionsMvc")" enctype="multipart/form-data" >
+            <h2>Create Question</h2>
+            <div class="form-group">
+                <input autocomplete="off" asp-for="QuestionId" class="form-control" type="hidden" />
+                <label asp-for="ChoiceText"></label>
+                <input autocomplete="off" asp-for="ChoiceText" class="form-control" required />
+                <span asp-validation-for="ChoiceText" class="text-danger"></span>
+                <label asp-for="Score"></label>
+                <input autocomplete="off" asp-for="Score" class="form-control" required />
+                <span asp-validation-for="Score" class="text-danger"></span>
+                <br />
+                
+            </div>
+            <div class="d-flex justify-content-between">
+                <a href="/QuestionsMvc/Index" class="btn btn-secondary">Back</a>
+                <input type="submit" class="btn btn-primary" value="Submit" />
+            </div>
+        </form>
+</body>
+</html>
+
+

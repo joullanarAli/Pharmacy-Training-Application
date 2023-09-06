@@ -1,0 +1,15 @@
+﻿@model AddActiveIngredientToDrugViewModel
+
+<h2>Add Active Ingredient to Drug</h2>
+
+@using (Html.BeginForm("AddActiveIngredientToDrug", "DrugsMvc", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.DrugId)
+    
+    <div class="form-group">
+        @Html.LabelFor(m => m.SelectedActiveIngredientId, "Select an Active Ingredient:")
+        @Html.DropDownListFor(m => m.SelectedActiveIngredientId, new SelectList(Model.AvailableActiveIngredients, "Id", "Name"), "Select an Active Ingredient", new { @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Active Ingredient</button>
+}

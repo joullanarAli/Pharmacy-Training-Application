@@ -1,0 +1,40 @@
+﻿@model PharmacyDB.Models.Drug
+
+<div class="modal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="card card-warning card-outline">
+              <div class="card-body box-profile" style="align-self: center;">
+                      
+                        <ul class="list-group list-group-unbordered mb-3">
+                          <li>
+                            <b> @Html.DisplayNameFor(model=>model.EnglishName) : </b>
+                            <p class="float-right">
+                                @Html.DisplayFor(model=>model.EnglishName)
+                            </p>
+                          </li>
+                           <li>
+                            <b> @Html.DisplayNameFor(model=>model.ArabicName) :   </b>
+                            <p class="float-right">
+                                @Html.DisplayFor(model=>model.ArabicName)
+                            </p>
+                          </li>
+                           <li>
+                            <b> @Html.DisplayNameFor(model=>model.Description) : </b>
+                            <p class="float-right">
+                                @Html.DisplayFor(model=>model.Description)
+                            </p>
+                          </li>
+                           <li>
+                            <b> @Html.DisplayNameFor(model=>model.SideEffects) : </b>
+                            <p class="float-right">
+                                @Html.DisplayFor(model=>model.SideEffects)
+                            </p>
+                          </li>
+                        </ul>
+                 </div>
+              <!-- /.card-body -->
+            </div> 
+        </div>
+    </div>
+</div>

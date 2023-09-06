@@ -1,0 +1,33 @@
+﻿@model PharmacyDB.Models.DrugForm
+
+<div class="modal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="card card-warning card-outline">
+                <div class="card-body box-profile" style="align-self: center; width:70%;">
+                    <form class="form" method="post" action="@Url.Action("EditForm","DrugsMvc")">
+                        <h2>Edit Form</h2>
+                        <div class="modal-body">
+                            <input id="Id" asp-for="Id" class="form-control" type="hidden" />
+                            <input id="DrugId" asp-for="DrugId" class="form-control" type="hidden" />
+                            <input id="FormId" asp-for="FormId" class="form-control" type="hidden" />
+                            <label asp-for="Dose"></label>
+                            <input id="Dose" asp-for="Dose" class="form-control" />
+                            <span asp-validation-for="Dose"></span><br />
+                            <label asp-for="Volume"></label>
+                            <input id="Volume" asp-for="Volume" class="form-control" />
+                            <span asp-validation-for="Volume"></span><br />
+                            <span id="error" class="text-danger"></span>
+                        </div>
+                        <div class="modal-footer">
+                            <input type="submit" class="btn btn-primary" value="Submit" id="submitButton" />
+                            <button class="btn btn-light" data-dismiss="modal">Cancel</button>
+                        </div>
+                    </form>
+                </div>
+                <!-- /.card-body -->
+            </div>
+        </div>
+    </div>
+</div>
+

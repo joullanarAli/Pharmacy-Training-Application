@@ -1,0 +1,308 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PharmacyAdminWebApp
+build_property.RootNamespace = PharmacyAdminWebApp
+build_property.ProjectDir = D:\Project\last_project\PharmacyDB\PharmacyAdminWebApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\Project\last_project\PharmacyDB\PharmacyAdminWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/ActiveIngredientsMvc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZlSW5ncmVkaWVudHNNdmNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/ActiveIngredientsMvc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZlSW5ncmVkaWVudHNNdmNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/ActiveIngredientsMvc/Drugs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZlSW5ncmVkaWVudHNNdmNcRHJ1Z3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/ActiveIngredientsMvc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZlSW5ncmVkaWVudHNNdmNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/ActiveIngredientsMvc/Modal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZlSW5ncmVkaWVudHNNdmNcTW9kYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/BrandsMvc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzTXZjXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/BrandsMvc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzTXZjXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/BrandsMvc/Drugs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzTXZjXERydWdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/BrandsMvc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzTXZjXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/BrandsMvc/Modal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzTXZjXE1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/BrandsMvc/ModalImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzTXZjXE1vZGFsSW1hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/CategoriesMvc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc012Y1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/CategoriesMvc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc012Y1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/CategoriesMvc/Drugs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc012Y1xEcnVncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/CategoriesMvc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc012Y1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/CategoriesMvc/Modal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc012Y1xNb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/CategoriesMvc/ModalImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc012Y1xNb2RhbEltYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/DrugsMvc/ActiveIngredients.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJ1Z3NNdmNcQWN0aXZlSW5ncmVkaWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/DrugsMvc/AddActiveIngredientToDrug.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJ1Z3NNdmNcQWRkQWN0aXZlSW5ncmVkaWVudFRvRHJ1Zy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/DrugsMvc/AddFormToDrug.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJ1Z3NNdmNcQWRkRm9ybVRvRHJ1Zy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/DrugsMvc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJ1Z3NNdmNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/DrugsMvc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJ1Z3NNdmNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/DrugsMvc/DeleteActiveIngredient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJ1Z3NNdmNcRGVsZXRlQWN0aXZlSW5ncmVkaWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/DrugsMvc/DeleteForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJ1Z3NNdmNcRGVsZXRlRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/DrugsMvc/DrugDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJ1Z3NNdmNcRHJ1Z0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/DrugsMvc/FormModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJ1Z3NNdmNcRm9ybU1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/DrugsMvc/Forms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJ1Z3NNdmNcRm9ybXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/DrugsMvc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJ1Z3NNdmNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/DrugsMvc/Modal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJ1Z3NNdmNcTW9kYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/DrugsMvc/ModalImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJ1Z3NNdmNcTW9kYWxJbWFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/ExamsMvc/AddQuestionToExam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXNNdmNcQWRkUXVlc3Rpb25Ub0V4YW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/ExamsMvc/Choices.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXNNdmNcQ2hvaWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/ExamsMvc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXNNdmNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/ExamsMvc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXNNdmNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/ExamsMvc/DeleteQuestion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXNNdmNcRGVsZXRlUXVlc3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/ExamsMvc/Images.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXNNdmNcSW1hZ2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/ExamsMvc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXNNdmNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/ExamsMvc/Modal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXNNdmNcTW9kYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/ExamsMvc/QuestionModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXNNdmNcUXVlc3Rpb25Nb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/ExamsMvc/Questions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXNNdmNcUXVlc3Rpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/FormsMvc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNNdmNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/FormsMvc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNNdmNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/FormsMvc/Drugs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNNdmNcRHJ1Z3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/FormsMvc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNNdmNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/FormsMvc/Modal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNNdmNcTW9kYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/FormsMvc/ModalImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNNdmNcTW9kYWxJbWFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/Home/HomePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/QuestionsMvc/AddChoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zTXZjXEFkZENob2ljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/QuestionsMvc/AddImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zTXZjXEFkZEltYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/QuestionsMvc/ChoiceModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zTXZjXENob2ljZU1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/QuestionsMvc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zTXZjXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/QuestionsMvc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zTXZjXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/QuestionsMvc/DeleteChoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zTXZjXERlbGV0ZUNob2ljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/QuestionsMvc/DeleteImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zTXZjXERlbGV0ZUltYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/QuestionsMvc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zTXZjXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/QuestionsMvc/Images.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zTXZjXEltYWdlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/QuestionsMvc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zTXZjXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/QuestionsMvc/Modal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zTXZjXE1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/QuestionsMvc/QuestionChoices.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zTXZjXFF1ZXN0aW9uQ2hvaWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/last_project/PharmacyDB/PharmacyAdminWebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1m4y3dek33

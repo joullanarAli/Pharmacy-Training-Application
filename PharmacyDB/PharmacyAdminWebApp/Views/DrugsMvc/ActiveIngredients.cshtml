@@ -1,0 +1,136 @@
+﻿@model PharmacyDB.Models.Drug
+
+<div  class="row my-2 position-static" style="color:red">
+    <p id="tempDataMessage" class="position-static" style="color:red">
+         @TempData["Message"]
+    </p>
+</div>
+
+<div class="row my-3">
+    <div class="col-4">
+    </div>
+    @*<div class="col-4">
+        <input type="text" class="form-control text-success" placeholder="Search product..." onkeyup="search(this.value)" />
+    </div>*@
+    <div class="d-flex justify-content-between"> 
+            <a href="/DrugsMvc/Index" class="btn btn-secondary">Back</a> 
+             
+        </div>
+    @*<div class="col-3">
+        <button class="btn btn-warning" onclick="get()">Get Drug Active Ingredients</button>
+    </div>*@
+    <div class="col-3">
+        <a class="btn btn-primary" href="@Url.Action("AddActiveIngredientToDrug","DrugsMvc",new { drugId = @Model.Id })" style="margin-left:10px">ADD Active Ingredient</a>
+    </div>
+</div>
+
+<div class = "container">
+        <div class="row test"></div>
+    </div>
+
+<div id="modal-container">
+</div>
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+             get();
+        });
+    </script>
+    <script>
+        function get(){
+            let obj = {"id":@Model.Id};
+            $.ajax({
+                url: '@Url.Action("GetDrugActiveIngredients", "DrugsMvc")' + "?drugId=" + @Model.Id,
+                type: 'get',
+                datatype: 'json',
+                data: { orderid: obj },
+                success: function (response){
+                    if (response.success){
+                        $(".test").empty();
+                        $.each(response.data, (index, item) => {
+                            
+                            $(".test").append(` <div class="col-md-3">
+                                                        <div class="card card-widget widget-user-2" style="margin-top=20px">
+                                                            <div class="widget-user-header bg-light" style="min-height:140px" >
+                                                             <div class="float-right">
+                                                                       <button class="btn btn-light" onclick="del('${item.id}')"  
+                                                                               style='font-size:13px;position: relative;top:-12px'>
+                                                                                <i class='fas fa-trash' style='font-size:13px;color:black; position: relative;top:0px'></i>
+                                                                       </button>
+                                                             </div>
+                                                              <h5 class="widget-user-desc" style="margin-left:10px;"></br><b>Active Ingredient: </b>${item.activeIngredient.name}</h5>
+
+                                                        
+                                                               
+                                                            </div>
+                                                            <div class="card-footer p-0">
+                                                                <ul class="nav flex-column">
+                 
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                        <!-- /.widget-user -->
+                                                    </div>`)
+                        })
+                    } else {
+                        alert(response.message)
+                    }
+                   
+                },
+                error: function (msg) {
+                    console.error(msg);
+                }
+            })
+        }
+    </script>
+@*    <script>
+        function showModal(id) {
+            alert(id);
+            $.ajax({
+                url: '@Url.Action("GetFormModal", "DrugsMvc")' + "?id=" + id,
+                type: 'GET',
+                dataType: 'html',
+                success: function(response) {
+                    $('#modal-container').html(response); 
+                    $('.modal').modal('show');
+                    $.validator.unobtrusive.parse('form-id');
+                    
+                },
+                error: function(msg) {
+                    console.error(msg);
+                }
+            })
+        }
+    </script>*@
+    <script>
+        function del(id) {
+            $.ajax({
+                url: '@Url.Action("DeleteActiveIngredientModal", "DrugsMvc")' + "?drugActiveIngredientId=" + id,
+                type: 'GET',
+                dataType: 'html',
+                success: function(response) {
+                    $('#modal-container').html(response); 
+                    $('.modal').modal('show');
+                    $.validator.unobtrusive.parse('form-id');
+                    
+                },
+                error: function(msg) {
+                    console.error(msg);
+                }
+            })
+        }
+    </script>
+    <script>
+        function view(id) 
+        {
+            window.location.href = '/DrugsMvc/Details/?id='+id;
+        }
+    </script>
+    <script>
+        setTimeout(function () {
+            document.getElementById('tempDataMessage').innerHTML = '';
+        }, 5000); // 3000 milliseconds = 3 sec
+    </script>
+}
+
+    

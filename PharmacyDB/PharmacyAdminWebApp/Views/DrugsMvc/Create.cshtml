@@ -1,0 +1,192 @@
+﻿
+@model PharmacyAdminWebApp.Models.DrugViewModel
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+            .form-control{
+                width:50%;
+                margin-left:200px;
+            }
+            label{
+                 margin-left:200px;
+            }
+            #isVip{
+                 margin-left:450px;
+            }
+            .btn-secondary{
+                margin-left:350px;                
+            }
+            .btn-primary{
+                margin-right:750px;
+            }
+            .text-danger{      
+                margin-left:200px;
+            }
+            h2{      
+                color:teal;
+                margin-left: 200px;
+                font-family:'Lucida Calligraphy';
+                font-weight:bold;
+            }
+            #toggleForms{
+                background-color:teal;
+                color: white;
+            }
+            #toggleActiveIngredients{
+                background-color:teal;
+                color:white;
+                margin-top:20px;
+            }
+    </style>
+    </head>
+
+    <body>
+        <form class="form" method="post" action="@Url.Action("Create","DrugsMvc")" enctype="multipart/form-data" >
+            <h2>Create Drug</h2>
+            <div class="form-group">
+                <input autocomplete="off" id="totalprice" asp-for="Id" class="form-control" hidden />
+                <label asp-for="EnglishName"></label>
+                <input autocomplete="off" asp-for="EnglishName" class="form-control" required />
+                <span asp-validation-for="EnglishName" class="text-danger"></span>
+                <br />
+                <label asp-for="ArabicName"></label>
+                <input autocomplete="off" asp-for="ArabicName" class="form-control" required />
+                <span asp-validation-for="ArabicName" class="text-danger"></span>
+                <br />
+                <label asp-for="Description"></label>
+                <input autocomplete="off" asp-for="Description" class="form-control" required />
+                <span asp-validation-for="Description" class="text-danger"></span>
+                <br />
+                <label asp-for="SideEffects"></label>
+                <input autocomplete="off" asp-for="SideEffects" class="form-control" required />
+                <span asp-validation-for="SideEffects" class="text-danger"></span>
+                <br />
+                <label asp-for="imageFile">Image</label>
+                <input autocomplete="off" asp-for="imageFile" class="form-control" type="file" />
+                <span asp-validation-for="imageFile" class="text-danger"></span>
+                <br />
+                <label asp-for="BrandId">Brand</label><br />
+                <select asp-for="BrandId" asp-items="@Model.BrandNames" class="form-control"></select><br /><br />
+                <label asp-for="CategoryId">Category</label><br />
+                <select asp-for="CategoryId" asp-items="@Model.CategoryNames" class="form-control"></select><br /><br />
+                <div class="form-group">
+                    <h5>
+                        <button id="toggleForms" type="button" class="btn btn-link" style="margin-left:200px">Expand Forms to add</button>
+                    </h5>
+                    <ul id="formList" class="list-group" style="display: none;">
+                        @foreach (var form in @Model.FormNames)
+                        {
+                            <li class="list-group-item">
+                                <div class="form-check">
+                                    <input autocomplete="off" type="checkbox" name="SelectedFormIds" value="@form.Value" class="form-check-input" />
+                                    <label class="form-check-label">@form.Text</label>
+                                    <input  placeholder="Doses" name="Doses" autocomplete="off" type="number" min="1"  class="form-control dose-input"  style="display: none;" disabled   required />
+                                    <input  placeholder="Volumes" name="Volumes" autocomplete="off" type="number" min="1"  class="form-control volume-input"  style="display: none;" disabled   required />
+                                </div>
+                            </li>
+                        }
+                    </ul>
+                    <h5>
+                        <button id="toggleActiveIngredients" type="button" class="btn btn-link" style="margin-left:200px">Expand Active Ingredient to add</button>
+                    </h5>
+                    <ul id="activeIngredientList" class="list-group" style="display: none;">
+                        @foreach (var activeIngredient in @Model.ActiveIngredientNames)
+                        {
+                            <li class="list-group-item">
+                                <div class="form-check">
+                                    <input autocomplete="off" type="checkbox" name="SelectedActiveIngredientIds" value="@activeIngredient.Value" class="form-check-input" />
+                                    <label class="form-check-label">@activeIngredient.Text</label>
+                                </div>
+                            </li>
+                        }
+                    </ul>
+                @*<label>Forms</label><br />
+                for (int i = 0; i < Model.FormOptions.Count; i++)
+                {
+                    <div>
+                        <label>@Model.FormOptions[i].Text</label>
+                        <input type="checkbox" asp-for="@Model.SelectedFormIds[i]" />
+                        <input type="text" asp-for="@Model.Doses[i]" placeholder="Dose" class="form-control" />
+                        <input type="text" asp-for="@Model.Volumes[i]" placeholder="Volume" class="form-control" />
+                    </div>
+                }*@
+                <span asp-validation-for="SelectedFormIds" class="text-danger"></span>
+            </div>
+           
+
+        </div>
+            <div class="d-flex justify-content-between">
+                <a href="/DrugsMvc/Index" class="btn btn-secondary">Back</a>
+                <input type="submit" class="btn btn-primary" value="Submit" />
+            </div>
+        </form>
+</body>
+
+<script>
+    document.getElementById("toggleForms").addEventListener("click", function() {
+        var formList = document.getElementById("formList");
+        var toggleBtn = document.getElementById("toggleForms");
+        if (formList.style.display === "none") {
+            formList.style.display = "block";
+            toggleBtn.innerText = "Collapse Forms";
+        } else {
+            formList.style.display = "none";
+            toggleBtn.innerText = "Expand Forms";
+        }
+    });
+
+    var checkboxes = document.querySelectorAll('input[type="checkbox"][name="SelectedFormIds"]');
+    checkboxes.forEach(function(checkbox) {
+        checkbox.addEventListener("change", function() {
+            var doseInput = this.parentElement.querySelector('.dose-input');
+            var volumeInput = this.parentElement.querySelector('.volume-input');
+            if (this.checked) {
+            doseInput.style.display = "block";
+            doseInput.removeAttribute("disabled"); 
+            volumeInput.style.display = "block";
+            volumeInput.removeAttribute("disabled"); 
+            
+        } else {
+            doseInput.style.display = "none";
+            doseInput.setAttribute("disabled", "disabled"); 
+            volumeInput.style.display = "none";
+            volumeInput.setAttribute("disabled", "disabled");
+        }
+        });
+    });
+</script>
+<script>
+    document.getElementById("toggleActiveIngredients").addEventListener("click", function() {
+        var activeIngredientList = document.getElementById("activeIngredientList");
+        var toggleBtn = document.getElementById("toggleActiveIngredients");
+        if (activeIngredientList.style.display === "none") {
+            activeIngredientList.style.display = "block";
+            toggleBtn.innerText = "Collapse Active Ingredients";
+        } else {
+            activeIngredientList.style.display = "none";
+            toggleBtn.innerText = "Expand Active Ingredients";
+        }
+    });
+
+  //  var checkboxes = document.querySelectorAll('input[type="checkbox"][name="SelectedActiveIngredientsIds"]');
+    /*checkboxes.forEach(function(checkbox) {
+        checkbox.addEventListener("change", function() {
+            var doseInput = this.parentElement.querySelector('.dose-input');
+            var volumeInput = this.parentElement.querySelector('.volume-input');
+            if (this.checked) {
+            doseInput.style.display = "block";
+            doseInput.removeAttribute("disabled"); 
+            volumeInput.style.display = "block";
+            volumeInput.removeAttribute("disabled"); 
+            
+        } else {
+            doseInput.style.display = "none";
+            doseInput.setAttribute("disabled", "disabled"); 
+            volumeInput.style.display = "none";
+            volumeInput.setAttribute("disabled", "disabled");
+        }
+        });
+    });*/
+</script>
+</html>

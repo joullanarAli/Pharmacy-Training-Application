@@ -1,0 +1,31 @@
+﻿@model PharmacyDB.Models.Choice
+<div class="modal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="card card-warning card-outline">
+              <div class="card-body box-profile" style="align-self: center; width:70%;">
+            <form asp-action="EditChoice" method="post" >
+                <h2>Edit Choice</h2>
+                <div class="modal-body">
+                    <input id="Id" asp-for="Id" class="form-control" type="hidden" />
+                    <input id="QuestionId" asp-for="QuestionId" class="form-control" type="hidden" />
+                    <label asp-for="ChoiceText"></label>
+                    <input  asp-for="ChoiceText" class="form-control" />
+                    <span class="text-danger" asp-validation-for="ChoiceText"></span>
+                    <label asp-for="Score"></label>
+                    <input asp-for="Score" class="form-control" />
+                    <span class="text-danger" asp-validation-for="Score"></span>
+                    <br />
+                </div>
+            <div class="modal-footer">
+                <input type="submit" class="btn btn-primary" value="Submit" />
+                <button class="btn btn-light" data-dismiss="modal">Cancel</button>
+            </div>
+            </form>
+            </div>
+              <!-- /.card-body -->
+            </div> 
+        </div>
+    </div>
+</div>
+

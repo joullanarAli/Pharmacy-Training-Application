@@ -1,0 +1,616 @@
+D:\Project\project core 6\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\PharmacyInfrastructure.deps.json
+D:\Project\project core 6\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\PharmacyInfrastructure.runtimeconfig.json
+D:\Project\project core 6\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\PharmacyInfrastructure.dll
+D:\Project\project core 6\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\ref\PharmacyInfrastructure.dll
+D:\Project\project core 6\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\PharmacyInfrastructure.pdb
+D:\Project\project core 6\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\PharmacyDB.dll
+D:\Project\project core 6\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\PharmacyDB.pdb
+D:\Project\project core 6\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.csproj.AssemblyReference.cache
+D:\Project\project core 6\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\project core 6\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.AssemblyInfoInputs.cache
+D:\Project\project core 6\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.AssemblyInfo.cs
+D:\Project\project core 6\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.csproj.CoreCompileInputs.cache
+D:\Project\project core 6\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.csproj.CopyComplete
+D:\Project\project core 6\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.dll
+D:\Project\project core 6\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\ref\PharmacyInfrastructure.dll
+D:\Project\project core 6\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.pdb
+D:\Project\project core 6\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.genruntimeconfig.cache
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\PharmacyInfrastructure.deps.json
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\PharmacyInfrastructure.runtimeconfig.json
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\PharmacyInfrastructure.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\ref\PharmacyInfrastructure.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\PharmacyInfrastructure.pdb
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\PharmacyDB.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\PharmacyDB.pdb
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.csproj.AssemblyReference.cache
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.AssemblyInfoInputs.cache
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.AssemblyInfo.cs
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.csproj.CoreCompileInputs.cache
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.csproj.CopyComplete
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\ref\PharmacyInfrastructure.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.pdb
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.genruntimeconfig.cache
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\mscorlib.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\netstandard.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Collections.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Console.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Core.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Data.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Linq.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Memory.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Web.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Windows.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Xml.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\Project\last project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\PharmacyInfrastructure.deps.json
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\PharmacyInfrastructure.runtimeconfig.json
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\PharmacyInfrastructure.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\ref\PharmacyInfrastructure.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\PharmacyInfrastructure.pdb
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\mscorlib.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\netstandard.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Collections.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Console.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Core.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Data.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Linq.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Memory.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Web.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Windows.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Xml.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\PharmacyDB.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\bin\Debug\net6.0\PharmacyDB.pdb
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.csproj.AssemblyReference.cache
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.AssemblyInfoInputs.cache
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.AssemblyInfo.cs
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.csproj.CoreCompileInputs.cache
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.csproj.CopyComplete
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\ref\PharmacyInfrastructure.dll
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.pdb
+D:\Project\last_project\PharmacyDB\PharmacyInfrastructure\obj\Debug\net6.0\PharmacyInfrastructure.genruntimeconfig.cache

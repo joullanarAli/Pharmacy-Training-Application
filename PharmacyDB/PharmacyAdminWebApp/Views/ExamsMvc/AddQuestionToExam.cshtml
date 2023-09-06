@@ -1,0 +1,15 @@
+﻿@model AddQuestionToExamViewModel
+
+<h2>Add Question to Exam</h2>
+
+@using (Html.BeginForm("AddQuestionToExam", "ExamsMvc", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.ExamId)
+    
+    <div class="form-group">
+        @Html.LabelFor(m => m.SelectedQuestionId, "Select a Question:")
+        @Html.DropDownListFor(m => m.SelectedQuestionId, new SelectList(Model.AvailableQuestions, "Id", "QuestionText"), "Select a Question", new { @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Question</button>
+}

@@ -1,0 +1,40 @@
+﻿@model PharmacyDB.Models.Question
+
+<div class="modal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="card card-warning card-outline">
+              <div class="card-body box-profile" style="align-self: center;">
+                      
+                        <ul class="list-group list-group-unbordered mb-3">
+                          <li>
+                            <b> @Html.DisplayNameFor(model=>model.QuestionText) : </b>
+                            <p class="float-right">
+                                @Html.DisplayFor(model=>model.QuestionText)
+                            </p>
+                          </li>
+                           <li>
+                            <b> @Html.DisplayNameFor(model=>model.CorrectAnswerMark) :   </b>
+                            <p class="float-right">
+                                @Html.DisplayFor(model=>model.CorrectAnswerMark)
+                            </p>
+                          </li>
+                           <li>
+                            <b> @Html.DisplayNameFor(model=>model.WrongAnswerMark) : </b>
+                            <p class="float-right">
+                                @Html.DisplayFor(model=>model.WrongAnswerMark)
+                            </p>
+                          </li>
+                           <li>
+                            <b> @Html.DisplayNameFor(model=>model.NoAnswerMark) : </b>
+                            <p class="float-right">
+                                @Html.DisplayFor(model=>model.NoAnswerMark)
+                            </p>
+                          </li>
+                        </ul>
+                 </div>
+              <!-- /.card-body -->
+            </div> 
+        </div>
+    </div>
+</div>

@@ -1,0 +1,138 @@
+﻿@model List<PharmacyDB.Models.Choice>
+<div class="row my-3">
+    @*<div class="col-4">
+        <input type="text" class="form-control text-success" placeholder="Search text..." onkeyup="search(this.value)" />
+    </div>*@
+    <div class="col-2" style="margin-left : 600px;">
+        <a class="btn btn-primary" href="@Url.Action("AddChoice","QuestionsMvc",new{questionId= @Model.First().QuestionId})" style="margin-left:10px">Add Choice</a>
+    </div>
+    @*<div class="col-2">
+        <button class="btn btn-warning"  onclick="get()" style="margin-bottom: 10px;margin-right: 30px;" >Show Choices</button>
+    </div>*@
+</div>
+<div class = "container">
+        <div class="row test"></div>
+    </div>
+  
+
+<div id="modal-container">
+</div>
+
+@section Scripts {
+     <script>
+        $(document).ready(function () {
+             get();
+        });
+    </script>
+    <script>
+        function get() {
+            $.ajax({
+                url: '@Url.Action("GetQuestionChoices", "QuestionsMvc")'+ "?questionId="+ @Model.First().QuestionId,
+                type: 'GET',
+                dataType: 'json',
+                beforeSend: function() {},
+                success: function(response) {
+                    if (response.success) {
+                        $(".test").empty();
+                        $.each(response.data, (index, item) => {
+                            $(".test").append(` <div class="col-md-4">
+                                                        <!-- Widget: user widget style 2 -->
+                                                        <div class="card card-widget widget-user-2" style="margin-top=20px">
+                                                            <!-- Add the bg color to the header using any of the bg-* classes -->
+                                                            <div class="widget-user-header bg-light" style="min-height:140px" >
+                                                             <div class="float-right">
+                                                                        <button class="btn btn-light" onclick="showModal('${item.id}')"
+                                                                                style='font-size:13px;position: relative;top:-12px;'>
+                                                                            <i class='fas fa-pen' style='font-size:10px;color:black; position: relative;top:0px;'></i>
+                                                                        </button>
+                                                             </div>
+                                                             <div class="float-right">
+                                                                       <button class="btn btn-light" onclick="del('${item.id}')"  
+                                                                               style='font-size:13px;position: relative;top:-12px'>
+                                                                                <i class='fas fa-trash' style='font-size:13px;color:black; position: relative;top:0px'></i>
+                                                                       </button>
+                                                             </div>
+                                                             
+                                                             
+                                                           
+                                                                <!-- /.widget-user-image -->
+                                                                <h5 class="widget-user-desc" style="margin-left:10px;font-size:28px"></br><b>Choice's Text: </b></br>${item.choiceText}</h5>
+                                                                <h5 class="widget-user-desc" style="margin-left:10px;font-size:28px"></br><b>Choice's Score: </b></br>${item.score} </h5>
+
+                                                            </div>
+                                                            <div class="card-footer p-0">
+                                                                <ul class="nav flex-column">
+                 
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                        <!-- /.widget-user -->
+                                                    </div>`)
+                        })
+                    }
+                    else {
+                        alert(response.message)
+                    }
+                },
+                error: function(msg) {
+                    console.error(msg);
+                }
+            })
+        }
+    </script>
+   
+    <script>
+        function showModal(id) {
+            $.ajax({
+                url: '@Url.Action("GetChoiceModal", "QuestionsMvc")' + "?id=" + parseInt(id),
+                type: 'GET',
+                dataType: 'html',
+                success: function(response) {
+                    $('#modal-container').html(response); 
+                    $('.modal').modal('show');
+                    $.validator.unobtrusive.parse('form-id');
+                    
+                },
+                error: function(msg) {
+                    console.error(msg);
+                }
+            })
+        }
+    </script>
+     <script>
+        function showDetails(id) {
+            $.ajax({
+                url: '@Url.Action("GetDetails", "QuestionsMvc")' + "?id=" + parseInt(id),
+                type: 'GET',
+                dataType: 'html',
+                success: function(response) {
+                    $('#modal-container').html(response); 
+                    $('.modal').modal('show');
+                    $.validator.unobtrusive.parse('form-id');
+                    
+                },
+                error: function(msg) {
+                    console.error(msg);
+                }
+            })
+        }
+    </script>
+     <script>
+        function del(id) {
+            $.ajax({
+                url: '@Url.Action("DeleteChoiceModal", "QuestionsMvc")' + "?id=" + parseInt(id),
+                type: 'GET',
+                dataType: 'html',
+                success: function(response) {
+                    $('#modal-container').html(response); 
+                    $('.modal').modal('show');
+                    $.validator.unobtrusive.parse('form-id');
+                    
+                },
+                error: function(msg) {
+                    console.error(msg);
+                }
+            })
+        }
+    </script>
+}

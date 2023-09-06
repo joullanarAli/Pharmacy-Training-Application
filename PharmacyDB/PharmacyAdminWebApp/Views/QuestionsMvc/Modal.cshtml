@@ -1,0 +1,40 @@
+﻿@model PharmacyDB.Models.Question
+<div class="modal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="card card-warning card-outline">
+              <div class="card-body box-profile" style="align-self: center; width:70%;">
+            <form asp-action="Edit" method="post" >
+                <h2>Edit Question</h2>
+                <div class="modal-body">
+                    <input id="Id" asp-for="Id" class="form-control" type="hidden" />
+                    <input id="CourseId" asp-for="CourseId" class="form-control" type="hidden" />
+                    <label asp-for="QuestionText"></label>
+                    <input id="Name" asp-for="QuestionText" class="form-control" />
+                    <span class="text-danger" asp-validation-for="QuestionText"></span>
+                    <br />
+                    <label asp-for="CorrectAnswerMark"></label>
+                    <input id="Name" asp-for="CorrectAnswerMark" class="form-control" />
+                    <span class="text-danger" asp-validation-for="CorrectAnswerMark"></span>
+                    <br />
+                    <label asp-for="WrongAnswerMark"></label>
+                    <input id="Name" asp-for="WrongAnswerMark" class="form-control" />
+                    <span class="text-danger" asp-validation-for="WrongAnswerMark"></span>
+                    <br />
+                    <label asp-for="NoAnswerMark"></label>
+                    <input id="Name" asp-for="NoAnswerMark" class="form-control" />
+                    <span class="text-danger" asp-validation-for="NoAnswerMark"></span>
+                    <br />
+                </div>
+            <div class="modal-footer">
+                <input type="submit" class="btn btn-primary" value="Submit" />
+                <button class="btn btn-light" data-dismiss="modal">Cancel</button>
+            </div>
+            </form>
+            </div>
+              <!-- /.card-body -->
+            </div> 
+        </div>
+    </div>
+</div>
+

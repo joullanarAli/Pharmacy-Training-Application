@@ -1,0 +1,53 @@
+﻿
+@model PharmacyDB.Models.Exam
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+            .form-control{
+                width:50%;
+                margin-left:200px;
+            }
+            label{
+                 margin-left:200px;
+            }
+            #isVip{
+                 margin-left:450px;
+            }
+            .btn-secondary{
+                margin-left:200px;                
+            }
+            .btn-primary{
+                margin-right:600px;
+            }
+            .text-danger{      
+                margin-left:200px;
+            }
+            h2{      
+                color:teal;
+                margin-left: 200px;
+                font-family:'Lucida Calligraphy';
+                font-weight:bold;
+            }
+        </style>
+    </head>
+
+    <body>
+        <form class="form" method="post" action="@Url.Action("Create","ExamsMvc")" enctype="multipart/form-data" >
+            <h2>Create Exam</h2>
+            <div class="form-group">
+                <label asp-for="Name">Title</label>
+                <input autocomplete="off" asp-for="Name" class="form-control" required />
+                <span asp-validation-for="Name" class="text-danger"></span>
+                <br />
+            @*<a class="btn btn-primary" href="@Url.Action("Create","AddExamQuestionsMvc")" style="margin-left:200px">ADD Question</a>*@
+            </div>
+            <div class="d-flex justify-content-between">
+                <a href="/ExamsMvc/Index" class="btn btn-secondary">Back</a>
+                <input type="submit" class="btn btn-primary" value="Submit" />
+            </div>
+        </form>
+</body>
+</html>
+
+

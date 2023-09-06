@@ -1,0 +1,94 @@
+﻿@model PharmacyDB.Models.ActiveIngredient
+
+@*<div  class="row my-2 position-static" style="color:red">
+    <p id="tempDataMessage" class="position-static" style="color:red">
+         @TempData["Message"]
+    </p>
+</div>*@
+
+<div class="row my-3">
+      <div class="col-5"></div>
+    @*<div class="col-3">
+        <input type="text" class="form-control text-success" placeholder="Search Drug..." onkeyup="search(this.value)" />
+    </div>*@
+    <div class="d-flex justify-content-between"> 
+            <a href="/ActiveIngredientsMvc/Index" class="btn btn-secondary">Back</a> 
+             
+        </div>
+    @*<div class="col-5">
+        <button class="btn btn-warning" onclick="get()">Get ActiveIngredient Drugs</button>
+    </div>*@
+     @*<div class="col-3">
+        <a class="btn btn-primary" href="@Url.Action("AddDrugToBrand","BrandsMvc",new { brandId = @Model.Id })" style="margin-left:10px">ADD Drug</a>
+    </div>*@
+</div>
+
+<div class = "container">
+        <div class="row test"></div>
+    </div>
+
+<div id="modal-container">
+</div>
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+             get();
+        });
+    </script>
+    <script>
+        function get(){
+            let obj = {"id":@Model.Id};
+            $.ajax({
+                url: '@Url.Action("GetActiveIngredientDrugs", "ActiveIngredientsMvc")' + "?activeIngredientId=" + @Model.Id,
+                type: 'get',
+                datatype: 'json',
+                data: { orderid: obj },
+                success: function (response){
+                    if (response.success){
+                        $(".test").empty();
+                        $.each(response.data, (index, item) => {
+                            
+                            $(".test").append(` <div class="col-md-3">
+                                                        <div class="card card-widget widget-user-2" style="margin-top=20px">
+                                                            <div class="widget-user-header bg-light" style="min-height:140px" >
+                                                             
+                                                             <div class="widget-user-image" style="position: relative;">
+                                                                <img class="img-circle elevation-2"  
+                                                                    src="http:/localhost:5191/Images/Drugs/${item.image}" alt="RUINED" style="width: 80px; height: 80px; border: 3px solid #adb5bd;">
+
+                                                                
+                                                            </div>
+                                                                <!-- /.widget-user-image -->
+                                                              <h5 class="widget-user-desc" style="font-size: 18px; margin-left:100px;"></br><b>Drug: </b>${item.englishName}</h5>
+                                                              <h5 class="widget-user-desc"  style="font-size: 18px; margin-left:100px;"><b></b>${item.arabicName}</h5>
+                                                        
+                                                               
+                                                            </div>
+                                                            <div class="card-footer p-0">
+                                                                <ul class="nav flex-column">
+                 
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                        <!-- /.widget-user -->
+                                                    </div>`)
+                        })
+                    } else {
+                        alert(response.message)
+                    }
+                   
+                },
+                error: function (msg) {
+                    console.error(msg);
+                }
+            })
+        }
+    </script>
+
+        setTimeout(function () {
+            document.getElementById('tempDataMessage').innerHTML = '';
+        }, 5000); // 3000 milliseconds = 3 sec
+    </script>
+}
+
+    

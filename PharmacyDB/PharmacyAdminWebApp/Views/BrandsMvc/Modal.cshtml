@@ -1,0 +1,33 @@
+﻿@model PharmacyDB.Models.Brand
+<div class="modal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="card card-warning card-outline">
+              <div class="card-body box-profile" style="align-self: center; width:70%;">
+            <form asp-action="Edit" method="post" >
+                <h2>Edit Brand</h2>
+                <div class="modal-body">
+                    <input id="Id" asp-for="Id" class="form-control" type="hidden" />
+                    <label asp-for="Name"></label>
+                    <input id="Name" asp-for="Name" class="form-control" />
+                    <span class="text-danger" asp-validation-for="Name"></span>
+                    <br />
+                    <input id="Image" asp-for="Image" class="form-control" type="hidden" />
+                    <br />
+                    <span id="error" class="text-danger"></span>
+
+                </div>
+            <div class="modal-footer">
+                <input type="submit" class="btn btn-primary" value="Submit" />
+                <button class="btn btn-light" data-dismiss="modal">Cancel</button>
+            </div>
+            </form>
+            </div>
+              <!-- /.card-body -->
+            </div> 
+        </div>
+    </div>
+</div>
+
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>

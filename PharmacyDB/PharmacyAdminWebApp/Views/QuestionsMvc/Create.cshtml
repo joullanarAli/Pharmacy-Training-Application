@@ -1,0 +1,75 @@
+﻿
+@model PharmacyDB.Models.Question
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+            .form-control{
+                width:50%;
+                margin-left:200px;
+            }
+            label{
+                 margin-left:200px;
+            }
+            #isVip{
+                 margin-left:450px;
+            }
+            .btn-secondary{
+                margin-left:200px;                
+            }
+            .btn-primary{
+                margin-right:600px;
+            }
+            .text-danger{      
+                margin-left:200px;
+            }
+            h2{      
+                color:teal;
+                margin-left: 200px;
+                font-family:'Lucida Calligraphy';
+                font-weight:bold;
+            }
+            .choice-container {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-top: 10px;
+
+        }
+        </style>
+    </head>
+
+    <body>
+        <form class="form" method="post" action="@Url.Action("Create","QuestionsMvc")" enctype="multipart/form-data" >
+            <h2>Create Question</h2>
+            <div class="form-group">
+                <label asp-for="QuestionText"></label>
+                <input autocomplete="off" asp-for="QuestionText" class="form-control" required />
+                <span asp-validation-for="QuestionText" class="text-danger"></span>
+                <br />
+                <label asp-for="WrongAnswerMark"></label>
+                <input autocomplete="off" asp-for="WrongAnswerMark" class="form-control" required />
+                <span asp-validation-for="WrongAnswerMark" class="text-danger"></span>
+                <br />
+                <label asp-for="CorrectAnswerMark"></label>
+                <input autocomplete="off" asp-for="CorrectAnswerMark" class="form-control" required />
+                <span asp-validation-for="CorrectAnswerMark" class="text-danger"></span>
+                <br />
+                <label asp-for="NoAnswerMark"></label>
+                <input autocomplete="off" asp-for="NoAnswerMark" class="form-control" required />
+                <span asp-validation-for="NoAnswerMark" class="text-danger"></span>
+                <br />
+
+            </div>
+            <div class="d-flex justify-content-between">
+                <a href="/QuestionsMvc/Index" class="btn btn-secondary">Back</a>
+                <input type="submit" class="btn btn-primary" value="Submit" />
+            </div>
+        </form>
+
+</body>
+
+
+
+</html>
+
+
